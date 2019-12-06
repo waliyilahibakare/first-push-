@@ -1,0 +1,141 @@
+a{
+    text-decoration: none;
+    color: black;
+    float: right;
+    align-content: center;
+    width:150px;
+	height:50px;
+	line-height:50px;
+    text-align:center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-right: 2%;
+}
+.w3-display-middle{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p{
+    text-align: justify;
+}
+#pam{
+    position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-family: fantasy;
+    font-weight: bolder;
+    margin-left: -150px;
+    margin-top: -80px;
+    font-size: 30px;
+}
+.flex-item{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.flex-item5{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.flex-item6{
+    margin-left: 54%;
+    margin-top: -36%;
+    font-size: 24px;
+}
+.flex-item2{
+    margin-left: 54%;
+    margin-top: -36%;
+    font-size: 24px;
+}
+.flex-item4{
+    margin-right: 54%;
+    margin-top: 10%;
+    font-size: 24px;
+}
+.flex-item3{
+    margin-left: 54%;
+    margin-top: -34%;
+}
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-top: -105px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tom{
+    color: white;
+}
+header{
+    background-color: white;
+    height: 90px;
+}
+a:hover{
+    background-color: #009999;
+    width: 150px;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+}
+#home{
+    background-color: #009999;
+    width: 150px;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+}
+.img{
+    height: 300px;
+    width: 100%;
+    background-image:url(Image_1575527476.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Image_1575527476.jpg);
+    background-size: cover;
+    background-position: center;
+    border: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.omg{
+    height: 300px;
+    width: 100%;
+    background-image:url(pic.png);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic.png);
+    background-size: cover;
+    background-position: center;
+    border: none;
+}
+.h3-display-middle{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h3{
+    margin-top: 552%;
+    margin-left: -300px;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color: white;
+    font-size: 20px;
+    margin-left: -300px;
+}
+#lam{
+    position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-family: fantasy;
+    font-weight: bold;
+    margin-left: -470px;
+    margin-top: 262%;
+    font-size: 22px;
+}

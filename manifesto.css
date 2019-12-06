@@ -1,0 +1,106 @@
+button{
+    border: 1px solid white;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    width: 140px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+#lots{
+    width: 140px;
+    height: 90px;
+    background-color: blue;
+    color: white;
+}
+#lot{
+    background-color: red;
+    width: 80px;
+    margin-left: -10px;
+    font-size: 15px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.box{
+    margin-top: 100px;
+    background-color: white;
+    height: 400px;
+    width: 380px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.0);
+    cursor: pointer;
+    margin-left: 40px;
+}
+.box2{
+    margin-top: 100px;
+    background-color: white;
+    cursor: pointer;
+    height: 400px;
+    width: 380px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.0);
+    margin-left: 60px;
+}
+h2{
+    margin-left: 120px;
+}
+.box3{
+    margin-top: 100px;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    box-shadow: 0 5px 25px rgba(0,0,0,.0);
+    margin-left: 50px;
+}
+img{
+    margin-left: 160px;
+    border-radius: 106px;
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+}
+#lola{
+    color: aqua;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffe6;
+}
+#tan{
+    float: left;
+    margin-right: 790px;
+    color: black;
+}
+#tan2{
+    float: right;
+    margin-right: 1090px;
+    margin-top: -23px;
+    color: black;
+}
+.container{
+    float: right;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+header{
+    background-color: white;
+}
+h3{
+   text-align: center;
+   margin-top: 20px;
+   font-size: 30px;
+}
